@@ -1,5 +1,6 @@
 def func1():
-	pass
+	print("this is func 1")
+	print("this is created by geetika")
 def func2():
 	pass
 def func3():
